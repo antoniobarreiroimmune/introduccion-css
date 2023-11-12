@@ -1,4 +1,4 @@
 .one{color:green}
-.ten{color:green}
 li:nth-child(even) { 
-    color: red; 
+    color: red; }
+    #ten{color: green;}
